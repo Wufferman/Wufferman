@@ -20,7 +20,7 @@
 
 ### 🖥 Skills
 
-- See LinkedIn for skills
+- See <a href="https://www.linkedin.com/in/jeff-b-stampe-63560a218/">LinkedIn for skills</a>
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=C#&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat-square&logo=Visual-Studio&color=353535) ![Bootstrap](https://img.shields.io/badge/-.net-05122A?style=flat-square&logo=.net&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Microsoft%20Azure-05122A?style=flat-square&logo=Microsoft-Azure&color=353535) ![Bootstrap](https://img.shields.io/badge/-Lua-05122A?style=flat-square&logo=Lua&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=353535)
