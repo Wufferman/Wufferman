@@ -4,6 +4,9 @@
  <a href="mailto:chilinhm@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
+## Languages and tools
+[![My Skills](https://skillicons.dev/icons?i=c-sharp,html,css,cs)](https://skillicons.dev)
+
 ## Stats:
 Visitors: <br />
 ![](https://visitor-badge.laobi.icu/badge?page_id=DenGuleDansker.DenGuleDansker)
