@@ -5,9 +5,6 @@
 </p>
 
 ## Languages and tools
-
-[![My Skills](https://skillicons.dev/icons?i=c-sharp,html,css,cs)](https://skillicons.dev)
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,html,css" />
