@@ -1,14 +1,5 @@
 # Jeff Stampe
 
-<h3 align="center">Daily Visitors</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Wufferman/count.svg?"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wufferman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2&custom_title=Language%20Distribution" height="150" alt="languages graph"  />
