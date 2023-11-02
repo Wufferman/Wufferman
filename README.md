@@ -8,7 +8,9 @@
 
 ## Languages and tools
 <p align="center">
+    <a href=["https://skillicons.dev"](https://www.linkedin.com/in/chi-linh-mac/)>
     <img src="https://skillicons.dev/icons?i=cs,html,css,azure,mongodb,postgres,visualstudio,vscode" />
+    </a>
 </p>
 
 ## Stats:
