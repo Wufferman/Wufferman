@@ -5,6 +5,7 @@
 </p>
 
 ## Languages and tools
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=c-sharp,html,css,cs)](https://skillicons.dev)
 
 ## Stats:
