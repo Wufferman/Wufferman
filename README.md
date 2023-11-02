@@ -8,6 +8,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c-sharp,html,css,cs)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,html,css" />
+  </a>
+</p>
 ## Stats:
 Visitors: <br />
 ![](https://visitor-badge.laobi.icu/badge?page_id=DenGuleDansker.DenGuleDansker)
