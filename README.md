@@ -1,14 +1,12 @@
 ## Informations:
-<p align="center">
+<p align="left">
  <a href="https://linkedin.com/in/chi-linh-mac" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:chilinhm@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## Languages and tools
-<p align="center">
- 
+
 [![My Skills](https://skillicons.dev/icons?i=c-sharp,html,css,cs)](https://skillicons.dev)
-</p>
 
 ## Stats:
 Visitors: <br />
